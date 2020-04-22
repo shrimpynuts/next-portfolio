@@ -12,7 +12,11 @@ export default function About() {
           <Sidebar/>
 
           <div className="rightPanel"> 
-              I'm a student at rice university studying computer science. 
+              I'm a student at rice university. 
+              {/* <br/> */}
+              <p>
+              I plan to graduate may 2021, and I'm studying computer science.
+              </p>
           </div>
         </div>
       </div>
